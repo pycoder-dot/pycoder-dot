@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mohd Suhail</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud | Automation | CI/CD | Infrastructure as Code</h3>
 
 ---
@@ -44,9 +44,9 @@
 
 📫 **How to reach me**
 
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-suhail-9b81201a1/
 - 🌐 Portfolio: [Your personal site if any]
-- ✉️ Email: [Your email]
+- ✉️ Email: suhailchoudhary340@gmail.com
 
 ---
 
